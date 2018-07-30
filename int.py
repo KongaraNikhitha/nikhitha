@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input(""))
 if(n<1 or (n%1)!=0):
   print("wrong input")
 else:
