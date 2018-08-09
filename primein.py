@@ -4,6 +4,6 @@ for num in range(m,n):
   for i in range(m,n+1):
     if(num%i==0):
       if(c==2):
-        print num
+        print num,
 
 
