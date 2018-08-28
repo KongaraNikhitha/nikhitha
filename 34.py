@@ -1,2 +1,2 @@
-full_name=raw_input()
-print(len(full_name.split(".")))
+full_name1=raw_input()
+print(len(full_name1.split(".")))
