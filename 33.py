@@ -1,4 +1,4 @@
-full_name="i love "
+full_name="i love"
 count=0
 for m in full_name:
   if m == "  ":
