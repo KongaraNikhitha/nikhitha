@@ -1,5 +1,5 @@
-m,n=map(int,raw_input().split())
-temp=m
-m=n
-n=temp
-print m,n
+k,l=map(int,raw_input().split())
+temp=k
+k=l
+l=temp
+print k,l
