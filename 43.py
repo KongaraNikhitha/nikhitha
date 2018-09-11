@@ -1,3 +1,3 @@
-m1,m2=map(int,raw_input().split())
-m=m1+m2
-print m
+p1,p2=map(int,raw_input().split())
+p=p1+p2
+print p
